@@ -1,3 +1,4 @@
+![logo](https://github.com/SonamShrivastava2002/SonamShrivastava2002/blob/master/SONAM%20SHRIVASTAVA%20(1).png)
 <h1 align="center">Hi 👋, I'm Sonam Shrivastava</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
